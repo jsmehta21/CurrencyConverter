@@ -1,7 +1,8 @@
 # 💱 Currency Converter
 
 A simple web-based currency converter that fetches real-time exchange rates using the [ExchangeRate API](https://www.exchangerate-api.com/) (or similar JSON APIs). Built with **HTML**, **CSS**, and **JavaScript**.
-
+<br>
+Live Demo at: [Currency Converter](https://currency-converter-jiya.netlify.app/)
 ---
 
 ## ✨ Features
