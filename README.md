@@ -38,4 +38,3 @@ That's it! You’re good to go.
 
 ## 💌 Contact
 For any questions, feedback, or suggestions, connect with me on GitHub: [jsmehta21](https://github.com/jsmehta21)<br>
-🌟 Enjoy the game! Have fun! 🎮
